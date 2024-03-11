@@ -1,1 +1,1 @@
-This is for the project
+0x00. AirBnB clone - The console
