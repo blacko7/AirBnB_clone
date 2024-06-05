@@ -1,1 +1,1 @@
-This is for the project
+This is for the project 0x01. AirBnB clone - Web static
